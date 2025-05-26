@@ -78,18 +78,15 @@ Competitive Advantage: Stand out by providing exceptional customer service with 
 
 ## 🧑‍💻 How to Run the App Locally
 1. Clone the repository
-bash
 
-git clone https://github.com/your-username/Telecom-Customer-Churn-Analysis-Prediction.git
-cd Telecom-Customer-Churn-Analysis-Prediction
+git clone https://github.com/ALLAM-SRIDHAR/Customer-Churn-Analysis-and-Prediction.git
+cd Customer-Churn-Analysis-and-Prediction
+
 2. Install dependencies
 Make sure you have Python 3.10+ installed. Run the following to install required libraries:
-
-bash
 pip install -r requirements.txt
 
 3. Run the Streamlit app
-bash
 streamlit run app.py
 
 5. Access the app
