@@ -113,6 +113,9 @@ telecom-churn-analysis/
 ├── model/
 │   └── Bi_gradient_boosting_model.joblib  ← Trained model
 │
+├── dashboard/
+│   └── Customer Churn Dashboard.pbix  ← PowerBI file
+│
 ├── screenshots/
 │   ├── dashboard_overview.png
 │   └── batch_prediction_result.png     ← Dashboard screenshots for README
