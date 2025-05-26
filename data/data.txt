@@ -1,0 +1,2 @@
+here the Telco-Customer-Churn.csv is raw dataset
+and tel_churn_clean.csv is cleaned and preprocessed dataset
