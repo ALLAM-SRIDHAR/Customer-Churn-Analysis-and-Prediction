@@ -1,5 +1,4 @@
-# Customer-Churn-Analysis-and-Prediction
-# 📊 Telecom Customer Churn Analysis & Prediction
+# 📊 Customer Churn Analysis & Prediction
 ## Project Overview
 This application is designed to help businesses predict customer churn, which refers to the likelihood of customers discontinuing their services or subscriptions. By identifying customers at risk of churn, businesses can implement targeted retention strategies to improve customer satisfaction and reduce revenue loss. Using Gradient Boosting for prediction and an interactive Streamlit dashboard, this solution offers actionable insights for businesses to enhance customer retention and profitability in the telecom sector.
 
@@ -9,44 +8,44 @@ You can find it in my Dataset folder
 
 
 ## 🛠️ Technologies Used
-Power BI: For in-depth data analysis and visualization of churn patterns.
+**Power BI:** For in-depth data analysis and visualization of churn patterns.
 
-Python: For data processing and machine learning model development.
+**Python:** For data processing and machine learning model development.
 
-Streamlit: For building and deploying an interactive web application.
+**Streamlit:** For building and deploying an interactive web application.
 
-Pandas: For data manipulation and cleaning.
+**Pandas:** For data manipulation and cleaning.
 
-Plotly: For interactive visualizations.
+**Plotly:** For interactive visualizations.
 
-Scikit-learn: For machine learning model training.
+**Scikit-learn:** For machine learning model training.
 
-SMOTEENN: For balancing the dataset.
+**SMOTEENN:** For balancing the dataset.
 
-Joblib: For saving and loading the trained model.
+**Joblib:** For saving and loading the trained model.
 
 ## 🧩 Key Features
-Customer Insights: Leverage Power BI for analyzing customer behavior, demographics, and usage patterns.
+**Customer Insights:** Leverage Power BI for analyzing customer behavior, demographics, and usage patterns.
 
-Churn Comparison: Visualize and compare actual churn rates with predicted churn probabilities.
+**Churn Comparison:** Visualize and compare actual churn rates with predicted churn probabilities.
 
-Prediction Process: Utilize Gradient Boosting for seamless churn prediction via the Streamlit app.
+**Prediction Process:** Utilize Gradient Boosting for seamless churn prediction via the Streamlit app.
 
-Interpretation Assistance: Get clear explanations for churn predictions and influential features.
+**Interpretation Assistance:** Get clear explanations for churn predictions and influential features.
 
-Retention Strategies: Generate actionable retention strategies based on predictions.
+**Retention Strategies:** Generate actionable retention strategies based on predictions.
 
-Data Security: Ensures customer data confidentiality and compliance with data protection regulations.
+**Data Security:** Ensures customer data confidentiality and compliance with data protection regulations.
 
-Interactive Dashboards: Use Power BI and Streamlit for interactive churn trends and insights.
+**Interactive Dashboards:** Use Power BI and Streamlit for interactive churn trends and insights.
 
 ## 📊 Data Visualizations
-Customer Segmentation & Churn Analysis
+**Customer Segmentation & Churn Analysis**
 Use Power BI to segment customers by demographics, usage patterns, and contract types. Visualizations track churn trends, allowing businesses to predict spikes and act proactively.
 
 ## Customer Churn Dashboard Overview
 
-Churn Prediction Results
+**Churn Prediction Results**
 
 You can explore the full Power BI Churn Dashboard.
 
@@ -80,27 +79,25 @@ Competitive Advantage: Stand out by providing exceptional customer service with 
 ## 🧑‍💻 How to Run the App Locally
 1. Clone the repository
 bash
-Copy
-Edit
+
 git clone https://github.com/your-username/Telecom-Customer-Churn-Analysis-Prediction.git
 cd Telecom-Customer-Churn-Analysis-Prediction
 2. Install dependencies
 Make sure you have Python 3.10+ installed. Run the following to install required libraries:
 
 bash
-Copy
-Edit
 pip install -r requirements.txt
+
 3. Run the Streamlit app
 bash
-Copy
-Edit
 streamlit run app.py
-4. Access the app
+
+5. Access the app
 Visit http://localhost:8501 in your web browser to access the Customer Churn Prediction App.
 
-📁 Project Structure
+## 📁 Project Structure
 
+```plaintext
 telecom-churn-analysis/
 │
 ├── data/
@@ -124,6 +121,7 @@ telecom-churn-analysis/
 ├── requirements.txt                   ← Python dependencies
 ├── README.md                          ← Project overview and setup instructions
 └── .gitignore                         ← Git ignore file
+```
 
 ## 📦 Requirements
 
